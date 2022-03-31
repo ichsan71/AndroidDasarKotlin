@@ -1,0 +1,15 @@
+<resources>
+<string name="nameEditText">Nama : </string>
+<string name="sayHelloBtn">Halo : </string>
+<string name="go">Gas!</string>
+<string name="app_nun">ayanffs</string>
+<string name="app_name">Android Kotlin Dasar</string>
+<string name="sayHelloText">Hi %1$s</string>
+
+<string-array name="names">
+    <item>Muhammad</item>
+    <item>Ichsan</item>
+    <item>Kamil</item>
+</string-array>
+
+</resources>

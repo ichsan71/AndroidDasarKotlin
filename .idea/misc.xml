@@ -3,8 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/ichsa/OneDrive/Documents/Kamil/AndroidDasarKotlin/app/src/main/res/layout/activity_main.xml" value="0.2359375" />
-        <entry key="..\:/Users/ichsa/OneDrive/Documents/Kamil/AndroidDasarKotlin/app/src/main/res/layout/hello_world.xml" value="0.25" />
+        <entry key="..\:/Users/ichsa/OneDrive/Documents/Kamil/AndroidDasarKotlin/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/ichsa/OneDrive/Documents/Kamil/AndroidDasarKotlin/app/src/main/res/layout/game.xml" value="0.25" />
+        <entry key="..\:/Users/ichsa/OneDrive/Documents/Kamil/AndroidDasarKotlin/app/src/main/res/layout/gamelogic.xml" value="0.25" />
+        <entry key="..\:/Users/ichsa/OneDrive/Documents/Kamil/AndroidDasarKotlin/app/src/main/res/layout/hello_world.xml" value="0.264" />
+        <entry key="..\:/Users/ichsa/OneDrive/Documents/Kamil/AndroidDasarKotlin/app/src/main/res/layout/say_hello_form.xml" value="0.25" />
       </map>
     </option>
   </component>

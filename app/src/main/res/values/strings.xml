@@ -1,3 +1,16 @@
 <resources>
-    <string name="app_name">AndroidDasarKotlin</string>
+        <string name="nameEditText">Name : </string>
+        <string name="sayHelloBtn">Hello : </string>
+        <string name="go">Go!</string>
+        <string name="app_nun">ayanffs</string>
+        <string name="app_name">Android Kotlin Basic</string>
+        <string name="sayHelloText">Hi %1$s</string>
+
+
+    <string-array name="names">
+        <item>Muhammad</item>
+        <item>Ichsan</item>
+        <item>Kamil</item>
+    </string-array>
+
 </resources>
